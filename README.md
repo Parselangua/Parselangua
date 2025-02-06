@@ -1,6 +1,13 @@
-## Hi there 👋
+## Welcome 🚀
 
 Aspiring Computer Scientist.
+Java, Python
+
+
+Fall 2024 - Enrollment in Computer Science @ Old Dominion University
+Personal Projects: Android App Development WIP
+
+
 
 <!--
 **Parselangua/Parselangua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
